@@ -2,3 +2,7 @@
 venv
 vosk-model-en-us-0.42-gigaspeech
 launch.json
+mp3_files/*
+mp4_files/*
+txt_files/*
+static-monochannel-wave-file--delete-after-if-needed.wav
