@@ -2,4 +2,3 @@
 venv
 vosk-model-en-us-0.42-gigaspeech
 launch.json
-.gitignore
