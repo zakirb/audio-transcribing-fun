@@ -8,8 +8,8 @@
 First, clone the repository to your local machine:
 
 ```sh
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/zakirb/audio-transcribing-fun
+cd audio-transcribing-fun
 ```
 
 ### 2. Create and Activate a Virtual Environment
